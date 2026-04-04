@@ -3,7 +3,7 @@
 Welcome to the official repository for **Decoding the Language Machine**, an educational series by SkepticCTO LLC.
 
 ## Series Overview
-"Decoding the Language Machine" is a historical and technical journey designed to build intuition for modern Artificial Intelligence. By tracing the conceptual lineage of computer science—from Claude Shannon’s 1948 information theory to the modern Transformer architecture—the series demystifies Large Language Models (LLMs) and renders them legible as engineering systems rather than magical "black boxes."
+"Decoding the Language Machine" is a historical and technical journey designed to build intuition for modern Artificial Intelligence. By tracing the conceptual lineage of computer science (from Claude Shannon’s 1948 information theory to the modern Transformer architecture) the series demystifies Large Language Models (LLMs) and renders them legible as engineering systems rather than magical "black boxes."
 
 Our narrator and guide is **Robert Buccigrossi, Ph.D.** ("Dr. Butch"), who brings a practitioner’s skepticism and academic rigor to the exploration of how these machines actually work.
 
