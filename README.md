@@ -9,16 +9,15 @@ into the "black boxes".
 ["Decoding the Language Machine"](https://www.youtube.com/playlist?list=PLCw9sDFNHzC3-07n1Q2t5H3-dc-3-urA4) will be a 6-part series that 
 traces the history of computer science, from Claude Shannon's 1948 work on the statistics of the English language to modern transformers.
 
-The series and tjos repository were built during a 4-month sabbatical by **Robert "Butch" Buccigrossi, Ph.D.**. I’ve spent the last
+The series and this repository were built during a 4-month sabbatical by **Robert "Butch" Buccigrossi, Ph.D.**. I’ve spent the last
 21+ years as a CTO, earned my Ph.D. in Computer Science from the University of Pennsylvania in 1999 (focused on
 computer vision and machine learning), and currently serve as a Principal Investigator in the NIST AI Safety Initiative Consortium. 
 
 My goal is to apply rigorous scientific skepticism to AI and use historical breakthroughs to build intuition on LLM behavior.
 
 ## Purpose of this Repository
-The goal of this repository is to share the foundational resources used to create the series under a Creative Commons Licnese.
+In this repository we share the foundational resources used to create the series under a Creative Commons Licnese.
 
-We provide:
 * **Manim Source Code:** Python scripts for the mathematical animations used in the videos.
 * **Media Assets:** Video clips, audio, and images used in the episodes.
 * **LLM Prompts:** The specific prompts used for research, scripting, and asset generation.
